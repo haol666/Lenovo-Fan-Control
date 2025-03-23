@@ -1,7 +1,7 @@
 # Lenovo Laptop Fan Control
 
 Language: [中文](README.zh_CN.md)
-
+作者原文：https://www.bilibili.com/opus/994750323155271698
 ---
 
 Control fan for Lenovo laptops with `Lenovo ACPI-Compliant Virtual Power Controller` driver on Windows.
